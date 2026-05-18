@@ -1,0 +1,17 @@
+name: Learning Agent Sync
+on:
+  push:
+    paths:
+      - 'daily-checkin/**'
+      - 'notes/**'
+      - 'feedback/**'
+
+jobs:
+  validate-checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check daily checkin format
+        run: |
+          echo "✅ Checkin pushed: $(git log -1 --format='%s')"
+          # 可以在这里加 lint 或自动 summary 脚本
