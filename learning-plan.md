@@ -61,7 +61,7 @@
 **本周交付**
 - [ ] 选定一个方向
 - [ ] 拆解「谁发起任务 / 谁执行 / 谁付款 / 谁验证 / 谁承担风险」
-- [ ] 形成项目 Proposal（记录在 `projects/proposal.md`）
+- [ ] 形成项目 Proposal（记录在 `hackathon/proposal.md`）
 - [ ] 打卡：`notes/bridge/week2-summary.md`
 
 ---
@@ -89,7 +89,7 @@
 - [ ] 确定团队分工
 - [ ] 制定 Demo 计划
 
-**本周交付**：`projects/hackathon-plan.md`（含赛道、题目、目标用户、技术路径、分工、demo 计划）
+**本周交付**：`hackathon/hackathon-plan.md`（含赛道、题目、目标用户、技术路径、分工、demo 计划）
 
 ---
 
@@ -113,7 +113,7 @@
 - [ ] 演示视频
 - [ ] 链上验证材料（合约地址 / 测试网地址 / 交易哈希）
 
-**本周交付**：`projects/final-submission.md`（整理全部提交材料）
+**本周交付**：`hackathon/final-submission.md`（整理全部提交材料）
 
 ---
 
