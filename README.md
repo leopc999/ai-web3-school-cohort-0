@@ -43,13 +43,10 @@ Week 4  │ Hackathon 集中开发 + Demo 展示 + 最终提交
 ├── daily/                     # 每日学习笔记 (YYYY-MM-DD.md)
 ├── tasks/                     # 课程任务 & 实践练习记录
 ├── experiments/               # 代码实验 & 动手练习
+├── projects/                  # 项目文件（Proposal、Hackathon 计划、最终提交）
 ├── hackathon/                 # Hackathon 项目文件
 ├── submissions/               # 最终提交材料
 ├── handbook-feedback/         # Handbook 反馈收集
-├── notes/
-│   ├── ai/                    # AI 相关笔记
-│   ├── web3/                  # Web3 相关笔记
-│   └── bridge/                # AI × Web3 交叉笔记
 └── templates/
     ├── daily-note.md          # 每日打卡模板
     └── task-note.md           # 任务笔记模板
