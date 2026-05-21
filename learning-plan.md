@@ -20,8 +20,8 @@
 **核心目标**：建立共同语言，理解 LLM、agent、workflow、tool use、钱包、签名、合约在同一任务链里的关系
 
 **AI 基础（按需补盲）**
-- [ ] [LLM](https://aiweb3.school/zh/handbook/ai/llm/) — 模型能力边界
-- [ ] [Context](https://aiweb3.school/zh/handbook/ai/context/) — 上下文管理
+- [x] [LLM](https://aiweb3.school/zh/handbook/ai/llm/) — 模型能力边界 ✅ 05-20
+- [x] [Context](https://aiweb3.school/zh/handbook/ai/context/) — 上下文管理 ✅ 05-21
 - [ ] [Agent](https://aiweb3.school/zh/handbook/ai/agent/) — 工具调用 & 多步执行
 - [ ] [MCP](https://aiweb3.school/zh/handbook/ai/mcp/) — 模型上下文协议
 - [ ] [AI Coding](https://aiweb3.school/zh/handbook/ai/ai-coding/) — Vibe Coding / AI 辅助开发
