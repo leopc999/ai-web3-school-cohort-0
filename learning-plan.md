@@ -23,14 +23,14 @@
 - [x] [LLM](https://aiweb3.school/zh/handbook/ai/llm/) — 模型能力边界 ✅ 05-20
 - [x] [Context](https://aiweb3.school/zh/handbook/ai/context/) — 上下文管理 ✅ 05-21
 - [x] [Agent](https://aiweb3.school/zh/handbook/ai/agent/) — 工具调用 & 多步执行 ✅ 05-22
-- [ ] [MCP](https://aiweb3.school/zh/handbook/ai/mcp/) — 模型上下文协议
+- [x] [MCP](https://aiweb3.school/zh/handbook/ai/mcp/) — 模型上下文协议 ✅ 05-23
 - [ ] [AI Coding](https://aiweb3.school/zh/handbook/ai/ai-coding/) — Vibe Coding / AI 辅助开发
 
 **Web3 基础（按需补盲）**
 - [x] [Wallet](https://aiweb3.school/zh/handbook/web3/wallet/) — 身份 & 签名入口 ✅ 05-20
 - [x] [Transaction & Gas](https://aiweb3.school/zh/handbook/web3/transaction/) — 交易与 Gas ✅ 05-21
 - [x] [Smart Contract](https://aiweb3.school/zh/handbook/web3/smart-contract/) — 合约基础 ✅ 05-22
-- [ ] [Testnet](https://aiweb3.school/zh/handbook/web3/testnet/) — 测试网操作
+- [x] [Testnet](https://aiweb3.school/zh/handbook/web3/testnet/) — 测试网操作 ✅ 05-23
 
 **本周实践交付**
 - [ ] 完成 Vibe Coding / Hermes Agent 实践，记录过程
