@@ -33,7 +33,7 @@
 - [x] [Testnet](https://aiweb3.school/zh/handbook/web3/testnet/) — 测试网操作 ✅ 05-23
 
 **本周实践交付**
-- [ ] 完成 Vibe Coding / Hermes Agent 实践，记录过程
+- [x] 完成 Vibe Coding / Hermes Agent 实践，记录过程 ✅ 05-24
 - [ ] 创建测试钱包，完成测试网转账
 - [ ] 完成合约部署或调用（测试网）
 - [ ] 打卡记录：成功案例 + 失败案例 + 人工修正经历
