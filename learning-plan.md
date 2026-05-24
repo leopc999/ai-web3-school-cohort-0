@@ -24,7 +24,7 @@
 - [x] [Context](https://aiweb3.school/zh/handbook/ai/context/) — 上下文管理 ✅ 05-21
 - [x] [Agent](https://aiweb3.school/zh/handbook/ai/agent/) — 工具调用 & 多步执行 ✅ 05-22
 - [x] [MCP](https://aiweb3.school/zh/handbook/ai/mcp/) — 模型上下文协议 ✅ 05-23
-- [ ] [AI Coding](https://aiweb3.school/zh/handbook/ai/ai-coding/) — Vibe Coding / AI 辅助开发
+- [x] [AI Coding](https://aiweb3.school/zh/handbook/ai/ai-coding/) — Vibe Coding / AI 辅助开发 ✅ 05-24
 
 **Web3 基础（按需补盲）**
 - [x] [Wallet](https://aiweb3.school/zh/handbook/web3/wallet/) — 身份 & 签名入口 ✅ 05-20
