@@ -45,11 +45,11 @@
 **核心目标**：进入真实问题空间，理解 Bridge 核心概念，选定方向并形成 Proposal
 
 **Bridge 核心概念**
-- [ ] [Chain-aware Context](https://aiweb3.school/zh/handbook/bridge/chain-aware-context/)
-- [ ] [Web3 Tool Use](https://aiweb3.school/zh/handbook/bridge/web3-tool-use/)
-- [ ] [Agent Workflow](https://aiweb3.school/zh/handbook/bridge/agent-workflow/)
-- [ ] [Agent Wallet](https://aiweb3.school/zh/handbook/bridge/agent-wallet/)
-- [ ] [Machine Payment](https://aiweb3.school/zh/handbook/bridge/machine-payment/)
+- [x] [Chain-aware Context](https://aiweb3.school/zh/handbook/bridge/chain-aware-context/) ✅ 05-25
+- [x] [Web3 Tool Use](https://aiweb3.school/zh/handbook/bridge/web3-tool-use/) ✅ 05-25
+- [x] [Agent Workflow](https://aiweb3.school/zh/handbook/bridge/agent-workflow/) ✅ 05-25
+- [x] [Agent Wallet](https://aiweb3.school/zh/handbook/bridge/agent-wallet/) ✅ 05-25
+- [x] [Machine Payment](https://aiweb3.school/zh/handbook/bridge/machine-payment/) ✅ 05-25
 
 **方向选择（五选一）**
 - [ ] 阅读 [Agentic Commerce / Payment](https://aiweb3.school/zh/handbook/tracks/agentic-commerce/)
