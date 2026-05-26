@@ -52,7 +52,7 @@
 - [x] [Machine Payment](https://aiweb3.school/zh/handbook/bridge/machine-payment/) ✅ 05-25
 
 **方向选择（五选一）**
-- [ ] 阅读 [Agentic Commerce / Payment](https://aiweb3.school/zh/handbook/tracks/agentic-commerce/)
+- [x] 阅读 [Agentic Commerce / Payment](https://aiweb3.school/zh/handbook/tracks/agentic-commerce/) ✅ 05-26
 - [ ] 阅读 [Dev Tooling](https://aiweb3.school/zh/handbook/tracks/dev-tooling/)
 - [ ] 阅读 [AI Security / Privacy](https://aiweb3.school/zh/handbook/bridge/ai-security/)
 - [ ] 阅读 [AI × Governance / Coordination](https://aiweb3.school/zh/handbook/tracks/governance/)
