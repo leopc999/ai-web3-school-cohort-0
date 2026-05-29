@@ -55,7 +55,7 @@
 - [x] 阅读 [Agentic Commerce / Payment](https://aiweb3.school/zh/handbook/tracks/agentic-commerce/) ✅ 05-26
 - [x] 阅读 [Dev Tooling](https://aiweb3.school/zh/handbook/tracks/dev-tooling/) ✅ 05-27
 - [x] 阅读 [AI Security / Privacy](https://aiweb3.school/zh/handbook/bridge/ai-security/) ✅ 05-28
-- [ ] 阅读 [AI × Governance / Coordination](https://aiweb3.school/zh/handbook/tracks/governance/)
+- [x] 阅读 [AI × Governance / Coordination](https://aiweb3.school/zh/handbook/tracks/governance/) ✅ 05-29
 - [ ] 或 Open Track
 
 **本周交付**
