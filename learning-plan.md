@@ -1,6 +1,6 @@
 # 📋 AI × Web3 School 个人学习计划
 
-> 更新日期：2026-05-19
+> 更新日期：2026-05-30
 > 策略：两边有基础 → **Bridge-first，按需补盲，4 周对齐官方进度**
 
 ---
@@ -23,14 +23,25 @@
 - [x] [LLM](https://aiweb3.school/zh/handbook/ai/llm/) — 模型能力边界 ✅ 05-20
 - [x] [Context](https://aiweb3.school/zh/handbook/ai/context/) — 上下文管理 ✅ 05-21
 - [x] [Agent](https://aiweb3.school/zh/handbook/ai/agent/) — 工具调用 & 多步执行 ✅ 05-22
-- [x] [MCP](https://aiweb3.school/zh/handbook/ai/mcp/) — 模型上下文协议 ✅ 05-23
-- [x] [AI Coding](https://aiweb3.school/zh/handbook/ai/ai-coding/) — Vibe Coding / AI 辅助开发 ✅ 05-24
+- [x] [MCP](https://aiweb3.school/zh/handbook/ai/mcp/) — 模型上下文协议 ✅ 05-30
+- [x] [AI Coding](https://aiweb3.school/zh/handbook/ai/ai-coding/) — Vibe Coding / AI 辅助开发 ✅ 05-30
+- [x] [Evaluation](https://aiweb3.school/zh/handbook/ai/evaluation/) — 评估体系 ✅ 05-30
+- [x] [Fine-tuning](https://aiweb3.school/zh/handbook/ai/fine-tuning/) — 微调 ✅ 05-30
+- [x] [Inference](https://aiweb3.school/zh/handbook/ai/inference/) — 推理服务 ✅ 05-30
 
 **Web3 基础（按需补盲）**
 - [x] [Wallet](https://aiweb3.school/zh/handbook/web3/wallet/) — 身份 & 签名入口 ✅ 05-20
 - [x] [Transaction & Gas](https://aiweb3.school/zh/handbook/web3/transaction/) — 交易与 Gas ✅ 05-21
 - [x] [Smart Contract](https://aiweb3.school/zh/handbook/web3/smart-contract/) — 合约基础 ✅ 05-22
-- [x] [Testnet](https://aiweb3.school/zh/handbook/web3/testnet/) — 测试网操作 ✅ 05-23
+- [x] [Testnet](https://aiweb3.school/zh/handbook/web3/testnet/) — 测试网操作 ✅ 05-30
+- [x] [Cryptography](https://aiweb3.school/zh/handbook/web3/cryptography/) — 密码学基础 ✅ 05-30
+- [x] [Dev Stack](https://aiweb3.school/zh/handbook/web3/dev-stack/) — 开发栈 ✅ 05-30
+- [x] [Network](https://aiweb3.school/zh/handbook/web3/network/) — 网络 ✅ 05-30
+- [x] [Account Abstraction](https://aiweb3.school/zh/handbook/web3/account-abstraction/) — 账户抽象 ✅ 05-30
+- [x] [DeFi](https://aiweb3.school/zh/handbook/web3/defi/) — 去中心化金融 ✅ 05-30
+- [x] [Oracle](https://aiweb3.school/zh/handbook/web3/oracle/) — 预言机 ✅ 05-30
+- [x] [Indexing](https://aiweb3.school/zh/handbook/web3/indexing/) — 索引 ✅ 05-30
+- [x] [Security](https://aiweb3.school/zh/handbook/web3/security/) — 安全 ✅ 05-30
 
 **本周实践交付**
 - [x] 完成 Vibe Coding / Hermes Agent 实践，记录过程 ✅ 05-24
@@ -50,13 +61,23 @@
 - [x] [Agent Workflow](https://aiweb3.school/zh/handbook/bridge/agent-workflow/) ✅ 05-25
 - [x] [Agent Wallet](https://aiweb3.school/zh/handbook/bridge/agent-wallet/) ✅ 05-25
 - [x] [Machine Payment](https://aiweb3.school/zh/handbook/bridge/machine-payment/) ✅ 05-25
+- [x] [Agent Identity](https://aiweb3.school/zh/handbook/bridge/agent-identity/) ✅ 05-30
+- [x] [Agent Trust & Reputation](https://aiweb3.school/zh/handbook/bridge/agent-trust-and-reputation/) ✅ 05-30
+- [x] [Settlement & Escrow](https://aiweb3.school/zh/handbook/bridge/settlement-and-escrow/) ✅ 05-30
+- [x] [Verifiable AI](https://aiweb3.school/zh/handbook/bridge/verifiable-ai/) ✅ 05-30
+- [x] [AI Oracle](https://aiweb3.school/zh/handbook/bridge/ai-oracle/) ✅ 05-30
+- [x] [AI Security](https://aiweb3.school/zh/handbook/bridge/ai-security/) ✅ 05-30
+- [x] [AI Privacy](https://aiweb3.school/zh/handbook/bridge/ai-privacy/) ✅ 05-30
+- [x] [AI Sovereignty](https://aiweb3.school/zh/handbook/bridge/ai-sovereignty/) ✅ 05-30
+- [x] [Governance AI](https://aiweb3.school/zh/handbook/bridge/governance-ai/) ✅ 05-30
+- [x] [Decentralized AI](https://aiweb3.school/zh/handbook/bridge/decentralized-ai/) ✅ 05-30
 
 **方向选择（五选一）**
 - [x] 阅读 [Agentic Commerce / Payment](https://aiweb3.school/zh/handbook/tracks/agentic-commerce/) ✅ 05-26
 - [x] 阅读 [Dev Tooling](https://aiweb3.school/zh/handbook/tracks/dev-tooling/) ✅ 05-27
 - [x] 阅读 [AI Security / Privacy](https://aiweb3.school/zh/handbook/bridge/ai-security/) ✅ 05-28
 - [x] 阅读 [AI × Governance / Coordination](https://aiweb3.school/zh/handbook/tracks/governance/) ✅ 05-29
-- [ ] 或 Open Track
+- [x] 或 Open Track ✅ 05-30
 
 **本周交付**
 - [ ] 选定一个方向
@@ -71,10 +92,10 @@
 **核心目标**：补足基础、完成小型实战练习，确定 Hackathon 项目计划
 
 **补充深化（按方向选读）**
-- [ ] [Agent Identity](https://aiweb3.school/zh/handbook/bridge/agent-identity/)
-- [ ] [Agent Trust & Reputation](https://aiweb3.school/zh/handbook/bridge/agent-trust-and-reputation/)
-- [ ] [Settlement & Escrow](https://aiweb3.school/zh/handbook/bridge/settlement-and-escrow/)
-- [ ] [Verifiable AI](https://aiweb3.school/zh/handbook/bridge/verifiable-ai/)
+- [x] [Agent Identity](https://aiweb3.school/zh/handbook/bridge/agent-identity/) ✅ 05-30
+- [x] [Agent Trust & Reputation](https://aiweb3.school/zh/handbook/bridge/agent-trust-and-reputation/) ✅ 05-30
+- [x] [Settlement & Escrow](https://aiweb3.school/zh/handbook/bridge/settlement-and-escrow/) ✅ 05-30
+- [x] [Verifiable AI](https://aiweb3.school/zh/handbook/bridge/verifiable-ai/) ✅ 05-30
 
 **小型实战练习（选做）**
 - [ ] Agent workflow + 钱包确认流程
@@ -121,8 +142,11 @@
 
 > 在学习过程中发现的真正不熟悉的点，随时更新
 
-- [ ] <!-- 例：MCP 协议具体实现细节 -->
-- [ ] <!-- 例：Account Abstraction 和 Session Key 的关系 -->
+- [x] MCP 协议具体实现细节 ✅ 05-30 已补
+- [x] Account Abstraction 和 Session Key 的关系 ✅ 05-30 已补
+- [ ] ERC-8004 / ERC-8183 草案标准实际落地差异（待实践验证）
+- [ ] 去中心化 AI 项目"链上协调层 vs 执行层"的工程边界
+- [ ] Agent 生态数据边界协议标准化现状
 
 ---
 
