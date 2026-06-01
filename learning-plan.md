@@ -1,6 +1,6 @@
 # 📋 AI × Web3 School 个人学习计划
 
-> 更新日期：2026-05-30
+> 更新日期：2026-06-01
 > 策略：两边有基础 → **Bridge-first，按需补盲，4 周对齐官方进度**
 
 ---
@@ -78,6 +78,7 @@
 - [x] 阅读 [AI Security / Privacy](https://aiweb3.school/zh/handbook/bridge/ai-security/) ✅ 05-28
 - [x] 阅读 [AI × Governance / Coordination](https://aiweb3.school/zh/handbook/tracks/governance/) ✅ 05-29
 - [x] 或 Open Track ✅ 05-30
+- [x] Cobo 赛道深化复习：Agent Wallet + Machine Payment + Escrow + Identity + Security 全链路串联 ✅ 06-01
 
 **本周交付**
 - [ ] 选定一个方向
